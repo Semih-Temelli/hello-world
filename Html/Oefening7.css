@@ -1,0 +1,61 @@
+#h1allign {
+    text-align: center;
+    color: #ffe14f;
+
+}
+
+body {
+    background: #151c28;
+}
+
+.Buzzer {
+    border-style: solid;
+    border-color: #ffe14f;
+    border-radius: 10px;
+    margin-right: 20%;
+    margin-left: 28%;
+}
+
+.Fart {
+    border-style: solid;
+    border-color: #ffe14f;
+    border-radius: 10px;
+    margin-right: 20%;
+    margin-left: 28%;
+}
+
+.Doorbell {
+    border-style: solid;
+    border-color: #ffe14f;
+    border-radius: 10px;
+    margin-right: 20%;
+    margin-left: 28%;
+
+}
+
+.Badumtss {
+    border-style: solid;
+    border-color: #ffe14f;
+    border-radius: 10px;
+    margin-right: 20%;
+    margin-left: 28%;
+
+}
+
+.Badumtss:hover {
+    background: #8daec6;
+}
+
+.Doorbell:hover {
+    background: #8daec6;
+
+}
+
+.Fart:hover {
+    background: #8daec6;
+}
+
+.Buzzer:hover {
+    background: #8daec6;
+}
+

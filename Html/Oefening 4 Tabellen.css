@@ -1,0 +1,33 @@
+table{
+  border-collapse: collapse;
+  border: black 3px solid;
+}
+table td{
+  border: black 3px solid;
+  width: 75px;
+  height: 75px;
+}
+tr:nth-child(1) td:nth-child(1){
+  background: black;
+}
+tr:nth-child(1) td:nth-child(2){
+  background: #27426d;
+}
+tr:nth-child(2) td:nth-child(1){
+  background: #6facff;
+}
+tr:nth-child(2) td:nth-child(2){
+  background: #4f8cef;
+}
+tr:nth-child(2) td:nth-child(3){
+  background: #c7ced8;
+}
+tr:nth-child(3) td:nth-child(1){
+  background: #ffe14f;
+}
+tr:nth-child(4) td:nth-child(1){
+  background: #6a7689;
+}
+tr:nth-child(5) td:nth-child(1){
+  background: #6df469;
+}

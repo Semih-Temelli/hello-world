@@ -1,0 +1,44 @@
+body{
+    font-family: Roboto Light, sans-serif;
+    background: black;
+}
+.h1color{
+    color: red;
+}
+h2 {
+    color: white;
+}
+li{
+    color: yellow;
+}
+a{
+    color: blue;
+}
+a:hover{
+    color: red;
+}
+#PukkelRed{
+    border-style: solid;
+    border-color: red;
+    margin-right: 95%;
+}
+#RockRed{
+    border-style: solid;
+    border-color: red;
+    margin-right: 93.6%;
+}
+#TomorrowRed{
+    border-style: solid;
+    border-color: red;
+    margin-right: 93.5%;
+}
+#GraspopRed{
+    border-style: solid;
+    border-color: red;
+    margin-right: 95.8%;
+}
+#DourRed{
+    border-style: solid;
+    border-color: red;
+    margin-right: 97.4%;
+}
